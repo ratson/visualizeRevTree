@@ -1,7 +1,7 @@
 {
-  "name": "visualizeRevTree",
-  "version": "0.0.1",
-  "repository": "https://github.com/neojski/visualizeRevTree",
+  "name": "visualize-rev-tree",
+  "version": "0.0.0",
+  "repository": "https://github.com/ratson/visualizeRevTree",
   "devDependencies": {
     "pouchdb": "^5.0.0"
   },
