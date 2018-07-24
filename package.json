@@ -1,6 +1,6 @@
 {
   "name": "visualize-rev-tree",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "https://github.com/ratson/visualizeRevTree",
   "devDependencies": {
     "pouchdb": "^5.0.0"
